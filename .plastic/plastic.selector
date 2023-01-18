@@ -1,0 +1,4 @@
+repository "Ninya@TripleT@cloud"
+  path "/"
+    br "/main"
+    co "/main"
